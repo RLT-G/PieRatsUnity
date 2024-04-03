@@ -287,3 +287,19 @@ Received Import Request.
 Start importing Assets/Scenes/Petya.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29f5d486c07d06f3e37d85e57a2f3347') in 0.000481 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 299.849043 seconds.
+  path: Assets/Scenes/Dima.unity
+  artifactKey: Guid(704cda02fc756a14b9cbf4f5343e73ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Dima.unity using Guid(704cda02fc756a14b9cbf4f5343e73ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9875bd50bb76d85b14cc633e80c1849') in 0.000496 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 40.306105 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(1f629900219a6a5408e7e0c849492517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(1f629900219a6a5408e7e0c849492517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c545348af550df7e818a459f0ccd4e58') in 0.016734 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
