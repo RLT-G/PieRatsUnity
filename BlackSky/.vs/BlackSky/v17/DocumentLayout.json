@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\PieRatsUnity\\BlackSky\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\PieRatsUnity\\BlackSky\\Temp\\Compiled-Nature-Terrain-Standard.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Temp\\Compiled-Nature-Terrain-Standard.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F656137D-63CE-BEB5-B934-CECF1CFD4BCE}|Assembly-CSharp.csproj|c:\\pieratsunity\\blacksky\\assets\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F656137D-63CE-BEB5-B934-CECF1CFD4BCE}|Assembly-CSharp.csproj|solutionrelative:assets\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Compiled-Nature-Terrain-Standard.shader",
+              "DocumentMoniker": "C:\\PieRatsUnity\\BlackSky\\Temp\\Compiled-Nature-Terrain-Standard.shader",
+              "RelativeDocumentMoniker": "Temp\\Compiled-Nature-Terrain-Standard.shader",
+              "ToolTip": "C:\\PieRatsUnity\\BlackSky\\Temp\\Compiled-Nature-Terrain-Standard.shader",
+              "RelativeToolTip": "Temp\\Compiled-Nature-Terrain-Standard.shader",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-04-24T12:20:19.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ball.cs",
               "DocumentMoniker": "C:\\PieRatsUnity\\BlackSky\\Assets\\ball.cs",
               "RelativeDocumentMoniker": "Assets\\ball.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "README.txt",
               "DocumentMoniker": "C:\\PieRatsUnity\\BlackSky\\Assets\\Digger\\README.txt",
               "RelativeDocumentMoniker": "Assets\\Digger\\README.txt",
@@ -54,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Digger.Splines.Editor.asmdef",
               "DocumentMoniker": "C:\\PieRatsUnity\\BlackSky\\Assets\\Digger\\Modules\\AdvancedOperations\\Splines\\Editor\\Digger.Splines.Editor.asmdef",
               "RelativeDocumentMoniker": "Assets\\Digger\\Modules\\AdvancedOperations\\Splines\\Editor\\Digger.Splines.Editor.asmdef",
@@ -66,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FastNoise.cs",
               "DocumentMoniker": "C:\\PieRatsUnity\\BlackSky\\Assets\\Digger\\Modules\\AdvancedOperations\\Splines\\ProceduralGeneration\\FastNoise.cs",
               "RelativeDocumentMoniker": "Assets\\Digger\\Modules\\AdvancedOperations\\Splines\\ProceduralGeneration\\FastNoise.cs",
